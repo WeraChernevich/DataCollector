@@ -1,0 +1,1716 @@
+{"stations": [
+    {
+        "depth": "-36,5",
+        "line": "9",
+        "name": "Полянка",
+        "hasConnect": false
+    },
+    {
+        "depth": "0",
+        "line": "D2",
+        "name": "Стрешнево",
+        "hasConnect": true
+    },
+    {
+        "line": "1",
+        "name": "Сокольники",
+        "hasConnect": false
+    },
+    {
+        "date": "11.09.1938",
+        "line": "2",
+        "name": "Театральная",
+        "hasConnect": true
+    },
+    {
+        "line": "10",
+        "name": "Крестьянская застава",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Покровская",
+        "hasConnect": false
+    },
+    {
+        "date": "07.11.1958",
+        "line": "4",
+        "name": "Студенческая",
+        "hasConnect": false
+    },
+    {
+        "line": "2",
+        "name": "Динамо",
+        "hasConnect": true
+    },
+    {
+        "line": "10",
+        "name": "Чкаловская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-7",
+        "line": "2",
+        "name": "Войковская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-13",
+        "line": "1",
+        "name": "Кропоткинская",
+        "hasConnect": false
+    },
+    {
+        "date": "12.08.1974",
+        "line": "6",
+        "name": "Калужская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-10,5",
+        "name": "Парк культуры"
+    },
+    {
+        "depth": "-59",
+        "line": "D2",
+        "name": "Дмитровская",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Подольск",
+        "hasConnect": false
+    },
+    {
+        "date": "26.02.2018",
+        "line": "14",
+        "name": "Шелепиха",
+        "hasConnect": true
+    },
+    {
+        "line": "9",
+        "name": "Улица академика Янгеля",
+        "hasConnect": false
+    },
+    {
+        "line": "1",
+        "name": "Черкизовская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-8",
+        "line": "3",
+        "name": "Строгино",
+        "hasConnect": false
+    },
+    {
+        "date": "31.12.1966",
+        "depth": "-6",
+        "line": "7",
+        "name": "Рязанский проспект",
+        "hasConnect": false
+    },
+    {
+        "line": "4",
+        "name": "Смоленская",
+        "hasConnect": false
+    },
+    {
+        "date": "28.12.2015",
+        "line": "2",
+        "name": "Технопарк",
+        "hasConnect": false
+    },
+    {
+        "line": "6",
+        "name": "Ясенево",
+        "hasConnect": false
+    },
+    {
+        "depth": "-12",
+        "line": "6",
+        "name": "Беляево",
+        "hasConnect": false
+    },
+    {
+        "date": "08.11.1983",
+        "depth": "-10,5",
+        "line": "9",
+        "name": "Чертановская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-5",
+        "line": "14",
+        "name": "Площадь Гагарина",
+        "hasConnect": true
+    },
+    {
+        "depth": "9,6",
+        "line": "12",
+        "name": "Улица Скобелевская",
+        "hasConnect": false
+    },
+    {
+        "date": "01.03.1991",
+        "line": "9",
+        "name": "Отрадное",
+        "hasConnect": false
+    },
+    {
+        "line": "6",
+        "name": "Теплый стан",
+        "hasConnect": false
+    },
+    {
+        "line": "3",
+        "name": "Молодежная",
+        "hasConnect": false
+    },
+    {
+        "date": "06.11.1985",
+        "line": "9",
+        "name": "Пражская",
+        "hasConnect": false
+    },
+    {
+        "date": "10.09.2016",
+        "depth": "0",
+        "line": "14",
+        "name": "Бульвар Рокоссовского",
+        "hasConnect": true
+    },
+    {
+        "depth": "-8",
+        "line": "D2",
+        "name": "Царицыно",
+        "hasConnect": true
+    },
+    {
+        "date": "27.12.2003",
+        "line": "12",
+        "name": "Улица Горчакова",
+        "hasConnect": false
+    },
+    {
+        "depth": "-25",
+        "line": "4",
+        "name": "Международная",
+        "hasConnect": true
+    },
+    {
+        "date": "26.12.2002",
+        "line": "9",
+        "name": "Бульвар Дмитрия Донского",
+        "hasConnect": true
+    },
+    {
+        "depth": "-9",
+        "line": "9",
+        "name": "Алтуфьево",
+        "hasConnect": false
+    },
+    {
+        "depth": "-9,6",
+        "line": "2",
+        "name": "Сокол",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Кубанская",
+        "hasConnect": true
+    },
+    {
+        "line": "2",
+        "name": "Маяковская",
+        "hasConnect": false
+    },
+    {
+        "date": "31.12.2020",
+        "line": "15",
+        "name": "Электрозаводская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-10",
+        "line": "7",
+        "name": "Спартак",
+        "hasConnect": false
+    },
+    {
+        "line": "9",
+        "name": "Чеховская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-61",
+        "line": "10",
+        "name": "Петровско-Разумовская",
+        "hasConnect": true
+    },
+    {
+        "line": "14",
+        "name": "Ботанический Сад",
+        "hasConnect": true
+    },
+    {
+        "date": "30.09.1978",
+        "line": "6",
+        "name": "Свиблово",
+        "hasConnect": false
+    },
+    {
+        "line": "9",
+        "name": "Нагорная",
+        "hasConnect": false
+    },
+    {
+        "date": "31.12.1965",
+        "line": "1",
+        "name": "Преображенская площадь",
+        "hasConnect": false
+    },
+    {
+        "date": "21.10.1961",
+        "line": "3",
+        "name": "Первомайская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-12",
+        "line": "10",
+        "name": "Кожуховская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-65",
+        "line": "D1",
+        "name": "Окружная",
+        "hasConnect": true
+    },
+    {
+        "depth": "0",
+        "line": "14",
+        "name": "Кутузовская",
+        "hasConnect": true
+    },
+    {
+        "line": "14",
+        "name": "Локомотив",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Перерва",
+        "hasConnect": false
+    },
+    {
+        "date": "27.03.2020",
+        "depth": "5",
+        "line": "15",
+        "name": "Нижегородская",
+        "hasConnect": true
+    },
+    {
+        "line": "9",
+        "name": "Аннино",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1979",
+        "line": "8",
+        "name": "Перово",
+        "hasConnect": false
+    },
+    {
+        "depth": "-12",
+        "line": "8",
+        "name": "Рассказовка",
+        "hasConnect": false
+    },
+    {
+        "line": "10",
+        "name": "Селигерская",
+        "hasConnect": false
+    },
+    {
+        "depth": "0",
+        "line": "14",
+        "name": "Дубровка",
+        "hasConnect": true
+    },
+    {
+        "depth": "5",
+        "line": "14",
+        "name": "Измайлово",
+        "hasConnect": true
+    },
+    {
+        "depth": "-9",
+        "line": "3",
+        "name": "Партизанская",
+        "hasConnect": true
+    },
+    {
+        "line": "11",
+        "name": "Петровский парк",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Москворечье",
+        "hasConnect": false
+    },
+    {
+        "line": "14",
+        "name": "Балтийская",
+        "hasConnect": true
+    },
+    {
+        "date": "03.06.2019",
+        "line": "15",
+        "name": "Лухмановская",
+        "hasConnect": false
+    },
+    {
+        "date": "09.11.2013",
+        "line": "7",
+        "name": "Лермонтовский проспект",
+        "hasConnect": true
+    },
+    {
+        "line": "5",
+        "name": "Парк Культуры",
+        "hasConnect": true
+    },
+    {
+        "line": "3",
+        "name": "Крылатское",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Опалиха",
+        "hasConnect": false
+    },
+    {
+        "line": "6",
+        "name": "Ботанический сад",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Красный Строитель",
+        "hasConnect": false
+    },
+    {
+        "line": "10",
+        "name": "Сретенский бульвар",
+        "hasConnect": true
+    },
+    {
+        "date": "12.01.1959",
+        "line": "1",
+        "name": "Университет",
+        "hasConnect": false
+    },
+    {
+        "date": "07.01.2008",
+        "line": "4",
+        "name": "Кунцевская",
+        "hasConnect": true
+    },
+    {
+        "date": "25.12.1996",
+        "depth": "-8",
+        "line": "10",
+        "name": "Братиславская",
+        "hasConnect": false
+    },
+    {
+        "date": "30.08.2007",
+        "line": "10",
+        "name": "Трубная",
+        "hasConnect": true
+    },
+    {
+        "date": "22.03.2018",
+        "line": "10",
+        "name": "Верхние Лихоборы",
+        "hasConnect": false
+    },
+    {
+        "depth": "-8,5",
+        "line": "6",
+        "name": "Академическая",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1963",
+        "depth": "-8",
+        "line": "1",
+        "name": "Юго-Западная",
+        "hasConnect": false
+    },
+    {
+        "line": "2",
+        "name": "Орехово",
+        "hasConnect": false
+    },
+    {
+        "line": "14",
+        "name": "Белокаменная",
+        "hasConnect": false
+    },
+    {
+        "depth": "-8",
+        "line": "10",
+        "name": "Марьино",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Красногорская",
+        "hasConnect": false
+    },
+    {
+        "date": "18.01.2016",
+        "line": "1",
+        "name": "Румянцево",
+        "hasConnect": false
+    },
+    {
+        "depth": "6",
+        "name": "Телецентр"
+    },
+    {
+        "depth": "-10",
+        "line": "12",
+        "name": "Лесопарковая",
+        "hasConnect": false
+    },
+    {
+        "line": "7",
+        "name": "Октябрьское Поле",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Тестовская",
+        "hasConnect": true
+    },
+    {
+        "line": "4",
+        "name": "Пионерская",
+        "hasConnect": false
+    },
+    {
+        "date": "20.11.2004",
+        "depth": "6",
+        "line": "D1",
+        "name": "Тимирязевская",
+        "hasConnect": true
+    },
+    {
+        "date": "01.05.1958",
+        "line": "6",
+        "name": "ВДНХ",
+        "hasConnect": false
+    },
+    {
+        "line": "14",
+        "name": "Лужники",
+        "hasConnect": true
+    },
+    {
+        "date": "30.12.1975",
+        "line": "7",
+        "name": "Тушинская",
+        "hasConnect": true
+    },
+    {
+        "date": "16.03.2017",
+        "line": "8",
+        "name": "Ломоносовский проспект",
+        "hasConnect": false
+    },
+    {
+        "line": "7",
+        "name": "Баррикадная",
+        "hasConnect": true
+    },
+    {
+        "date": "26.02.2018",
+        "line": "11",
+        "name": "Хорошёвская",
+        "hasConnect": true
+    },
+    {
+        "date": "07.09.1985",
+        "line": "2",
+        "name": "Красногвардейская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-60",
+        "line": "10",
+        "name": "Бутырская",
+        "hasConnect": false
+    },
+    {
+        "date": "31.12.1966",
+        "line": "D2",
+        "name": "Текстильщики",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Калитники",
+        "hasConnect": false
+    },
+    {
+        "depth": "-16",
+        "line": "15",
+        "name": "Некрасовка",
+        "hasConnect": false
+    },
+    {
+        "depth": "-13,5",
+        "line": "9",
+        "name": "Нагатинская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Силикатная",
+        "hasConnect": false
+    },
+    {
+        "date": "13.10.1962",
+        "depth": "-50",
+        "line": "6",
+        "name": "Октябрьская",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Лобня",
+        "hasConnect": false
+    },
+    {
+        "line": "1",
+        "name": "Охотный ряд",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Лианозово",
+        "hasConnect": false
+    },
+    {
+        "date": "19.06.2010",
+        "line": "10",
+        "name": "Достоевская",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Шереметьевская",
+        "hasConnect": false
+    },
+    {
+        "line": "3",
+        "name": "Щелковская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Красный Балтиец",
+        "hasConnect": false
+    },
+    {
+        "date": "05.01.1972",
+        "depth": "-43",
+        "line": "6",
+        "name": "Сухаревская",
+        "hasConnect": false
+    },
+    {
+        "line": "9",
+        "name": "Цветной бульвар",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Бутово",
+        "hasConnect": false
+    },
+    {
+        "line": "8",
+        "name": "Новокосино",
+        "hasConnect": false
+    },
+    {
+        "depth": "-32,5",
+        "line": "1",
+        "name": "Лубянка",
+        "hasConnect": true
+    },
+    {
+        "depth": "-28",
+        "name": "Народное Ополчение"
+    },
+    {
+        "date": "10.09.2016",
+        "line": "14",
+        "name": "Угрешская",
+        "hasConnect": true
+    },
+    {
+        "date": "31.12.1964",
+        "line": "2",
+        "name": "Речной вокзал",
+        "hasConnect": false
+    },
+    {
+        "depth": "-10",
+        "line": "9",
+        "name": "Южная",
+        "hasConnect": false
+    },
+    {
+        "date": "16.03.2017",
+        "line": "8",
+        "name": "Раменки",
+        "hasConnect": false
+    },
+    {
+        "date": "date",
+        "name": "name"
+    },
+    {
+        "depth": "-46,5",
+        "line": "6",
+        "name": "Шаболовская",
+        "hasConnect": false
+    },
+    {
+        "date": "10.09.2016",
+        "line": "14",
+        "name": "Крымская",
+        "hasConnect": false
+    },
+    {
+        "depth": "?",
+        "line": "15",
+        "name": "Лефортово",
+        "hasConnect": false
+    },
+    {
+        "date": "27.12.2003",
+        "name": "Бульвар Адмирала Ушакова"
+    },
+    {
+        "depth": "-15",
+        "name": "Охотный Ряд"
+    },
+    {
+        "date": "30.12.1979",
+        "depth": "5",
+        "line": "14",
+        "name": "Шоссе Энтузиастов",
+        "hasConnect": true
+    },
+    {
+        "depth": "-8",
+        "name": "Улица Академика Янгеля"
+    },
+    {
+        "date": "10.09.2016",
+        "depth": "-11",
+        "line": "14",
+        "name": "Автозаводская",
+        "hasConnect": true
+    },
+    {
+        "line": "11",
+        "name": "ЦСКА",
+        "hasConnect": false
+    },
+    {
+        "date": "13.10.1961",
+        "name": "Филёвский парк"
+    },
+    {
+        "date": "07.09.1985",
+        "depth": "-9,5",
+        "line": "2",
+        "name": "Домодедовская",
+        "hasConnect": false
+    },
+    {
+        "date": "03.06.2019",
+        "line": "15",
+        "name": "Улица Дмитриевского",
+        "hasConnect": false
+    },
+    {
+        "depth": "-21",
+        "name": "Воронцовская"
+    },
+    {
+        "depth": "-35,5",
+        "line": "5",
+        "name": "Добрынинская",
+        "hasConnect": true
+    },
+    {
+        "line": "2",
+        "name": "Беломорская",
+        "hasConnect": false
+    },
+    {
+        "date": "07.09.2008",
+        "line": "D1",
+        "name": "Славянский бульвар",
+        "hasConnect": true
+    },
+    {
+        "depth": "0",
+        "line": "14",
+        "name": "Коптево",
+        "hasConnect": false
+    },
+    {
+        "depth": "6",
+        "name": "Улица Милашенкова"
+    },
+    {
+        "date": "20.06.2019",
+        "line": "1",
+        "name": "Коммунарка",
+        "hasConnect": false
+    },
+    {
+        "depth": "?",
+        "line": "15",
+        "name": "Авиамоторная",
+        "hasConnect": true
+    },
+    {
+        "date": "10.09.2005",
+        "line": "4",
+        "name": "Выставочная",
+        "hasConnect": true
+    },
+    {
+        "line": "14",
+        "name": "Владыкино",
+        "hasConnect": true
+    },
+    {
+        "depth": "-9,5",
+        "line": "9",
+        "name": "Бибирево",
+        "hasConnect": false
+    },
+    {
+        "depth": "-10",
+        "line": "10",
+        "name": "Борисово",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Рабочий Посёлок",
+        "hasConnect": false
+    },
+    {
+        "depth": "-10",
+        "line": "2",
+        "name": "Аэропорт",
+        "hasConnect": false
+    },
+    {
+        "depth": "6",
+        "name": "Улица Сергея Эйзенштейна"
+    },
+    {
+        "date": "11.09.1938",
+        "depth": "-33,1",
+        "line": "D1",
+        "name": "Белорусская",
+        "hasConnect": true
+    },
+    {
+        "date": "10.09.2016",
+        "line": "14",
+        "name": "Андроновка",
+        "hasConnect": false
+    },
+    {
+        "depth": "-12",
+        "line": "1",
+        "name": "Саларьево",
+        "hasConnect": false
+    },
+    {
+        "date": "03.06.2019",
+        "line": "15",
+        "name": "Косино",
+        "hasConnect": true
+    },
+    {
+        "depth": "-10",
+        "line": "2",
+        "name": "Алма-Атинская",
+        "hasConnect": false
+    },
+    {
+        "date": "15.05.1935",
+        "line": "1",
+        "name": "Чистые пруды",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Хлебниково",
+        "hasConnect": false
+    },
+    {
+        "depth": "-42",
+        "line": "1",
+        "name": "Фрунзенская",
+        "hasConnect": false
+    },
+    {
+        "date": "13.03.1938",
+        "line": "3",
+        "name": "Площадь Революции",
+        "hasConnect": true
+    },
+    {
+        "date": "08.11.1983",
+        "depth": "-9,5",
+        "name": "Нахимовский проспект"
+    },
+    {
+        "line": "D1",
+        "name": "Водники",
+        "hasConnect": false
+    },
+    {
+        "date": "07.12.2021",
+        "depth": "-8",
+        "line": "1",
+        "name": "Проспект Вернадского",
+        "hasConnect": false
+    },
+    {
+        "date": "31.12.1966",
+        "depth": "-36",
+        "line": "7",
+        "name": "Таганская",
+        "hasConnect": true
+    },
+    {
+        "date": "30.01.1952",
+        "line": "5",
+        "name": "Новослободская",
+        "hasConnect": true
+    },
+    {
+        "line": "4",
+        "name": "Филевский парк",
+        "hasConnect": false
+    },
+    {
+        "line": "9",
+        "name": "Нахимовский Проспект",
+        "hasConnect": false
+    },
+    {
+        "date": "08.11.1983",
+        "line": "9",
+        "name": "Тульская",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Кунцево",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Бескудниково",
+        "hasConnect": false
+    },
+    {
+        "line": "9",
+        "name": "Севастопольская",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1972",
+        "line": "7",
+        "name": "Полежаевская",
+        "hasConnect": true
+    },
+    {
+        "line": "2",
+        "name": "Коломенская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-14",
+        "line": "8",
+        "name": "Говорово",
+        "hasConnect": false
+    },
+    {
+        "date": "22.07.1963",
+        "name": "Щёлковская"
+    },
+    {
+        "depth": "-9",
+        "line": "D1",
+        "name": "Беговая",
+        "hasConnect": true
+    },
+    {
+        "date": "01.05.1958",
+        "line": "6",
+        "name": "Алексеевская",
+        "hasConnect": false
+    },
+    {
+        "date": "15.05.1935",
+        "line": "1",
+        "name": "Библиотека имени Ленина",
+        "hasConnect": true
+    },
+    {
+        "line": "8",
+        "name": "Боровское шоссе",
+        "hasConnect": false
+    },
+    {
+        "date": "11.08.1969",
+        "line": "11A",
+        "name": "Каховская",
+        "hasConnect": false
+    },
+    {
+        "date": "27.03.2020",
+        "depth": "?",
+        "line": "15",
+        "name": "Стахановская",
+        "hasConnect": false
+    },
+    {
+        "date": "01.01.1950",
+        "depth": "-33,5",
+        "line": "5",
+        "name": "Павелецкая",
+        "hasConnect": true
+    },
+    {
+        "date": "15.05.1935",
+        "depth": "-41",
+        "line": "4",
+        "name": "Арбатская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-15",
+        "line": "7",
+        "name": "Жулебино",
+        "hasConnect": false
+    },
+    {
+        "depth": "-8",
+        "line": "10",
+        "name": "Люблино",
+        "hasConnect": false
+    },
+    {
+        "depth": "0",
+        "line": "D1",
+        "name": "Фили",
+        "hasConnect": true
+    },
+    {
+        "date": "30.12.1975",
+        "depth": "-6",
+        "line": "7",
+        "name": "Сходненская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Тушино",
+        "hasConnect": true
+    },
+    {
+        "date": "20.06.2019",
+        "line": "1",
+        "name": "Филатов Луг",
+        "hasConnect": false
+    },
+    {
+        "depth": "-31",
+        "name": "Красные Ворота"
+    },
+    {
+        "date": "28.12.1995",
+        "line": "10",
+        "name": "Печатники",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Новодачная",
+        "hasConnect": false
+    },
+    {
+        "depth": "-15",
+        "line": "7",
+        "name": "Котельники",
+        "hasConnect": false
+    },
+    {
+        "date": "07.12.2021",
+        "line": "8",
+        "name": "Мичуринский проспект",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Сетунь",
+        "hasConnect": false
+    },
+    {
+        "depth": "-8",
+        "line": "1",
+        "name": "Красносельская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-14",
+        "line": "D2",
+        "name": "Волоколамская",
+        "hasConnect": true
+    },
+    {
+        "line": "8",
+        "name": "Парк Победы",
+        "hasConnect": true
+    },
+    {
+        "date": "11.08.1969",
+        "depth": "-7",
+        "line": "11A",
+        "name": "Каширская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-13",
+        "line": "8",
+        "name": "Солнцево",
+        "hasConnect": false
+    },
+    {
+        "date": "23.01.1986",
+        "line": "9",
+        "name": "Боровицкая",
+        "hasConnect": true
+    },
+    {
+        "line": "9",
+        "name": "Савеловская",
+        "hasConnect": true
+    },
+    {
+        "date": "10.09.2016",
+        "line": "14",
+        "name": "Верхние Котлы",
+        "hasConnect": false
+    },
+    {
+        "depth": "-14",
+        "line": "2",
+        "name": "Ховрино",
+        "hasConnect": false
+    },
+    {
+        "depth": "9,6",
+        "name": "Бунинская аллея"
+    },
+    {
+        "date": "26.12.2009",
+        "line": "3",
+        "name": "Мякинино",
+        "hasConnect": false
+    },
+    {
+        "date": "17.01.1990",
+        "line": "6",
+        "name": "Новоясеневская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-52",
+        "line": "D1",
+        "name": "Савёловская",
+        "hasConnect": true
+    },
+    {
+        "date": "14.03.1954",
+        "depth": "-8,7",
+        "line": "5",
+        "name": "Киевская",
+        "hasConnect": true
+    },
+    {
+        "date": "27.03.2020",
+        "depth": "-20",
+        "line": "15",
+        "name": "Юго-Восточная",
+        "hasConnect": false
+    },
+    {
+        "line": "3",
+        "name": "Пятницкое шоссе",
+        "hasConnect": false
+    },
+    {
+        "date": "15.05.1935",
+        "line": "4",
+        "name": "Александровский сад",
+        "hasConnect": true
+    },
+    {
+        "date": "30.12.1972",
+        "line": "7",
+        "name": "Улица 1905 года",
+        "hasConnect": false
+    },
+    {
+        "line": "2",
+        "name": "Тверская",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Долгопрудная",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Павшино",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Баковка",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1979",
+        "line": "8",
+        "name": "Новогиреево",
+        "hasConnect": false
+    },
+    {
+        "date": "28.12.1995",
+        "depth": "-54",
+        "line": "10",
+        "name": "Римская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-6",
+        "line": "7",
+        "name": "Планерная",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1979",
+        "depth": "-46",
+        "line": "8",
+        "name": "Площадь Ильича",
+        "hasConnect": true
+    },
+    {
+        "line": "14",
+        "name": "Лихоборы",
+        "hasConnect": false
+    },
+    {
+        "line": "2",
+        "name": "Новокузнецкая",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Трикотажная",
+        "hasConnect": false
+    },
+    {
+        "date": "30.09.1978",
+        "line": "6",
+        "name": "Медведково",
+        "hasConnect": false
+    },
+    {
+        "line": "12",
+        "name": "Бульвар адмирала Ушакова",
+        "hasConnect": false
+    },
+    {
+        "date": "10.09.2016",
+        "line": "14",
+        "name": "ЗИЛ",
+        "hasConnect": false
+    },
+    {
+        "line": "10",
+        "name": "Зябликово",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Пенягино",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Гражданская",
+        "hasConnect": false
+    },
+    {
+        "date": "20.11.2004",
+        "name": "Выставочный центр"
+    },
+    {
+        "line": "D2",
+        "name": "Остафьево",
+        "hasConnect": false
+    },
+    {
+        "line": "14",
+        "name": "Хорошёво",
+        "hasConnect": true
+    },
+    {
+        "date": "16.03.2017",
+        "line": "8",
+        "name": "Минская",
+        "hasConnect": false
+    },
+    {
+        "date": "31.01.2014",
+        "depth": "7",
+        "line": "14",
+        "name": "Деловой центр",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Марк",
+        "hasConnect": false
+    },
+    {
+        "date": "06.11.1987",
+        "line": "6",
+        "name": "Коньково",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Щербинка",
+        "hasConnect": false
+    },
+    {
+        "depth": "-12",
+        "line": "1",
+        "name": "Тропарёво",
+        "hasConnect": false
+    },
+    {
+        "date": "17.12.1975",
+        "depth": "-39,5",
+        "name": "Кузнецкий Мост"
+    },
+    {
+        "date": "26.12.2009",
+        "line": "3",
+        "name": "Митино",
+        "hasConnect": false
+    },
+    {
+        "date": "14.03.1954",
+        "line": "5",
+        "name": "Краснопресненская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-7",
+        "line": "6",
+        "name": "Новые Черёмушки",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1979",
+        "line": "8",
+        "name": "Марксистская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-11",
+        "name": "Новаторская"
+    },
+    {
+        "depth": "-25",
+        "line": "8",
+        "name": "Озёрная",
+        "hasConnect": false
+    },
+    {
+        "line": "2",
+        "name": "Водный стадион",
+        "hasConnect": false
+    },
+    {
+        "date": "01.01.1950",
+        "line": "D2",
+        "name": "Курская",
+        "hasConnect": true
+    },
+    {
+        "line": "7",
+        "name": "Кузнецкий мост",
+        "hasConnect": true
+    },
+    {
+        "date": "15.05.1935",
+        "line": "5",
+        "name": "Комсомольская",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Битца",
+        "hasConnect": false
+    },
+    {
+        "date": "05.01.1972",
+        "line": "6",
+        "name": "Тургеневская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-8",
+        "line": "7",
+        "name": "Кузьминки",
+        "hasConnect": false
+    },
+    {
+        "depth": "0",
+        "line": "14",
+        "name": "Ростокино",
+        "hasConnect": false
+    },
+    {
+        "date": "01.05.1957",
+        "line": "1",
+        "name": "Спортивная",
+        "hasConnect": true
+    },
+    {
+        "date": "07.12.2021",
+        "name": "Давыдково"
+    },
+    {
+        "line": "2",
+        "name": "Кантемировская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-16",
+        "line": "6",
+        "name": "Ленинский проспект",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Немчиновка",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Дегунино",
+        "hasConnect": false
+    },
+    {
+        "line": "7",
+        "name": "Пролетарская",
+        "hasConnect": true
+    },
+    {
+        "date": "04.11.2016",
+        "line": "14",
+        "name": "Зорге",
+        "hasConnect": true
+    },
+    {
+        "line": "1",
+        "name": "Воробьевы горы",
+        "hasConnect": false
+    },
+    {
+        "date": "03.01.1971",
+        "depth": "-46",
+        "line": "8",
+        "name": "Третьяковская",
+        "hasConnect": true
+    },
+    {
+        "date": "30.08.2018",
+        "depth": "-16",
+        "line": "8",
+        "name": "Новопеределкино",
+        "hasConnect": false
+    },
+    {
+        "depth": "-8",
+        "line": "10",
+        "name": "Волжская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Каланчёвская",
+        "hasConnect": true
+    },
+    {
+        "date": "06.11.1987",
+        "name": "Тёплый Стан"
+    },
+    {
+        "depth": "?",
+        "line": "1",
+        "name": "Ольховая",
+        "hasConnect": false
+    },
+    {
+        "date": "30.12.1975",
+        "line": "D2",
+        "name": "Щукинская",
+        "hasConnect": false
+    },
+    {
+        "line": "D1",
+        "name": "Одинцово",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Депо",
+        "hasConnect": false
+    },
+    {
+        "line": "12",
+        "name": "Бунинская Аллея",
+        "hasConnect": false
+    },
+    {
+        "date": "01.04.2021",
+        "name": "Мнёвники"
+    },
+    {
+        "line": "3",
+        "name": "Семеновская",
+        "hasConnect": false
+    },
+    {
+        "date": "02.12.2011",
+        "depth": "-10",
+        "line": "10",
+        "name": "Шипиловская",
+        "hasConnect": false
+    },
+    {
+        "depth": "12",
+        "name": "Улица Академика Королёва"
+    },
+    {
+        "date": "13.10.1961",
+        "line": "4",
+        "name": "Багратионовская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Москва Товарная",
+        "hasConnect": true
+    },
+    {
+        "date": "20.06.2019",
+        "line": "1",
+        "name": "Прокшино",
+        "hasConnect": false
+    },
+    {
+        "line": "1",
+        "name": "Красные ворота",
+        "hasConnect": false
+    },
+    {
+        "date": "03.01.1971",
+        "line": "7",
+        "name": "Китай-город",
+        "hasConnect": true
+    },
+    {
+        "date": "16.09.2016",
+        "line": "10",
+        "name": "Фонвизинская",
+        "hasConnect": false
+    },
+    {
+        "date": "13.10.1962",
+        "line": "6",
+        "name": "Профсоюзная",
+        "hasConnect": false
+    },
+    {
+        "date": "11.10.2016",
+        "line": "14",
+        "name": "Соколиная Гора",
+        "hasConnect": false
+    },
+    {
+        "line": "12",
+        "name": "Улица Старокачаловская",
+        "hasConnect": true
+    },
+    {
+        "date": "27.02.2014",
+        "depth": "-10",
+        "line": "12",
+        "name": "Битцевский парк",
+        "hasConnect": true
+    },
+    {
+        "line": "D1",
+        "name": "Сколково",
+        "hasConnect": false
+    },
+    {
+        "date": "19.06.2010",
+        "depth": "-60",
+        "name": "Марьина Роща"
+    },
+    {
+        "line": "3",
+        "name": "Бауманская",
+        "hasConnect": false
+    },
+    {
+        "depth": "-51",
+        "line": "7",
+        "name": "Пушкинская",
+        "hasConnect": true
+    },
+    {
+        "depth": "-8",
+        "line": "7",
+        "name": "Волгоградский проспект",
+        "hasConnect": true
+    },
+    {
+        "date": "01.05.1958",
+        "line": "D2",
+        "name": "Рижская",
+        "hasConnect": false
+    },
+    {
+        "line": "6",
+        "name": "Бабушкинская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Нахабино",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Курьяново",
+        "hasConnect": false
+    },
+    {
+        "line": "10",
+        "name": "Марьина роща",
+        "hasConnect": false
+    },
+    {
+        "line": "6",
+        "name": "Проспект Мира",
+        "hasConnect": true
+    },
+    {
+        "line": "7",
+        "name": "Выхино",
+        "hasConnect": false
+    },
+    {
+        "date": "11.08.1969",
+        "depth": "-9",
+        "line": "11A",
+        "name": "Варшавская",
+        "hasConnect": false
+    },
+    {
+        "date": "08.11.2016",
+        "depth": "0",
+        "line": "14",
+        "name": "Панфиловская",
+        "hasConnect": true
+    },
+    {
+        "depth": "?",
+        "line": "15",
+        "name": "Окская",
+        "hasConnect": false
+    },
+    {
+        "line": "3",
+        "name": "Измайловская",
+        "hasConnect": false
+    },
+    {
+        "line": "D2",
+        "name": "Новохохловская",
+        "hasConnect": true
+    },
+    {
+        "date": "31.12.1988",
+        "line": "9",
+        "name": "Менделеевская",
+        "hasConnect": true
+    },
+    {
+        "date": "08.11.1983",
+        "line": "9",
+        "name": "Серпуховская",
+        "hasConnect": true
+    },
+    {
+        "line": "D2",
+        "name": "Аникеевка",
+        "hasConnect": false
+    }
+]}
